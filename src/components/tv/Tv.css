@@ -1,0 +1,8 @@
+.voting {
+  position: absolute;
+  top: -10px;
+  right: 5px;
+  padding: 5px;
+  border-radius: 2px;
+  background-color: #00a0dc;
+}
